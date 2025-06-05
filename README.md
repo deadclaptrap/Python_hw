@@ -4,3 +4,4 @@ Python projects
 
 1. BOIDS симуляция. СИмуляция поведения птиц, облетающих препятсвия. Bois_done - код с выполненым заданием. 
 2. interactive_fractal_map  визуализация фрактала
+3. heat_transfer_problem_2d
