@@ -3,5 +3,6 @@ Python projects
 Домашние задания с факультета Прикладная математика МИЭМ НИУ ВШЭ. 
 
 1. BOIDS симуляция. СИмуляция поведения птиц, облетающих препятсвия. Bois_done - код с выполненым заданием. 
-2. interactive_fractal_map  визуализация фрактала
-3. heat_transfer_problem_2d
+2. interactive_fractal_map  визуализация фрактала. Создание интерактивной карту при помощи класса DynamicMap модуля holoviews.  interactive_fractal_map_done --код с выполненным заданием
+3. heat_transfer_problem_2d. согласно уравнению диффузии смоделировать распространение тепла в пластине на заданное время  tm  для каждого  N. heat_transfer_problem_2d_done -- код с выполненным заданием
+4. ferromagnetic_energy_problem_2d. согласно модели Изинга рассчитать нормированное значение средней энергии  ⟨E⟩LxLy  для указанной решетки молекул. ferromagnetic_energy_problem_2d_done -- код с выполненным заданием
